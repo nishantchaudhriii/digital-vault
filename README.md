@@ -4,6 +4,11 @@
 
 The Document Management System (DMS) is a web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The application integrates both relational and NoSQL databases to manage user authentication, workspace management, document handling, and more.
 
+## Project Ownership
+
+- Owner: Nishant Chaudhary
+- GitHub: @nishantchaudhriii
+
 ## Features
 
 - **User Authentication**: Secure user registration and login using a relational database (PostgreSQL/MySQL) with JWT-based session management.
